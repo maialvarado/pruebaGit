@@ -7,6 +7,10 @@
     <title>prueba</title>
 </head>
 <body>
+
+<h2>hola esto es una prueba</h2>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente obcaecati esse vel deserunt. Officiis, doloremque praesentium. Laudantium, adipisci cupiditate ducimus voluptas quidem enim accusantium doloribus eaque sequi id, quaerat ut.</p>
     
 </body>
 </html>
